@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medazizgharbi&label=Profile%20views&color=0e75b6&style=flat" alt="medazizgharbi" /> </p>
 - 😎 I USE NEOVIM BTW.**
 
-- 🌱 I’m currently learning **C, ZIG, 'ANGULAR'.**
+- 🌱 I’m currently learning **RUST.**
 
 - 📫 How to reach me **gharbi.aziz03@gmail.com**
 
